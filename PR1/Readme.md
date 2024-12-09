@@ -18,3 +18,7 @@
 ![Снимок8](https://github.com/user-attachments/assets/115a1fff-428b-44b5-8a75-abb3b0e56540)
 
 2.4 Установим правила на сервере и клиенте
+![Снимок9](https://github.com/user-attachments/assets/a3534364-8af0-4c49-882a-840a361ec8f6)
+
+2.5 Проверим получения логов на сервере
+![Снимок10](https://github.com/user-attachments/assets/5023821c-902a-4fcb-a3a1-bb0ee02e34e3)
