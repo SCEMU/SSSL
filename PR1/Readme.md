@@ -13,3 +13,8 @@
 
 2.2 Проверяем работоспособность rsyslog на сервере и клиенте:
 ![Снимок7](https://github.com/user-attachments/assets/a53cac47-e617-46e3-a859-c41c3eaba559)
+
+2.3 Включим UDP и TCP соединения
+![Снимок8](https://github.com/user-attachments/assets/115a1fff-428b-44b5-8a75-abb3b0e56540)
+
+2.4 Установим правила на сервере и клиенте
