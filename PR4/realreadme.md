@@ -1,4 +1,4 @@
-![Screenshot_7](https://github.com/user-attachments/assets/8066723e-7279-498d-a0bf-82a0ffaa99a1)# **Практика №4 по предмету СДССиЛ - Network Threat Hunting**
+# **Практика №4 по предмету СДССиЛ - Network Threat Hunting**
 Выполнил студент: Сидоренков Никита Дмитриевич 
 
 
