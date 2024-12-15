@@ -35,15 +35,11 @@
 ![16](https://github.com/user-attachments/assets/3ca8b949-4dde-4e35-841b-e64ff167fc14)
 
 ## **Шаг 10. Настройка выявления web shell attack (аналогично пункту 9):**
-<img width="260" alt="17" src="https://github.com/user-attachments/assets/2482e065-4908-40cb-9f57-36ae59ad2a6f" />
+<img src="https://github.com/user-attachments/assets/3520b34f-afbb-4ac6-ae4e-32f5216a5701" />
 
 ## **Шаг 11. Проверка работы настроеннх ранее механизмов:**
-<img width="1276" alt="18" src="https://github.com/user-attachments/assets/47a92db2-b164-41bd-a460-47576b1ab193" />
-<img width="1276" alt="19" src="https://github.com/user-attachments/assets/8bcb338c-a163-4295-9a5c-b97cdbca652f" />
-
-
-
-
+![18](https://github.com/user-attachments/assets/efa369b9-f492-4233-9fdb-3951ed81b977)
+![19](https://github.com/user-attachments/assets/9feaafc0-a905-4dd0-96ba-5b2e7eb458d7)
 
 
 
